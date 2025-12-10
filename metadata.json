@@ -1,0 +1,5 @@
+{
+  "name": "PaperInsight AI",
+  "description": "Upload any research paper (PDF) and instantly get a structured breakdown of its problem, innovations, comparisons, and limitations using Gemini AI.",
+  "requestFramePermissions": []
+}
